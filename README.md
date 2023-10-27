@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Gunjan Upadhyay</h1>
-<h3 align="center">I am Gunjan Upadhyay, Final year CSE student with a deep passion for exploring new technologies and building new projects. 👨‍💻 I enjoy working on personal projects and contributing to open-source software, which allows me to collaborate with like-minded developers from around the world. I love to meet new peoples and work with them. Here's a bit about me:</h3>
+<h3 align="center">I am Gunjan Upadhyay, Final year CSE student with a deep passion for exploring new technologies and building new projects 👨‍💻.  I love to meet new peoples and work with them. Here's a bit about me:</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif">
 
