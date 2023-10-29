@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://gunjanupadhyay.io)
+[![MasterHead](https://user-images.githubusercontent.com/87605149/250366610-0eefb3d1-190e-4d87-88a9-98877b37a9f2.gif)](https://gunjanupadhyay.io)
 
 
 
