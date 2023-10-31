@@ -43,6 +43,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjanupadhyay&" alt="gunjanupadhyay" /></p>
 
-<h3>Hacktoberfest2023 Holopin badges<h3>
+<h3>Hacktoberfest2023 Holopin badges :<h3>
   
 [![@rphi's Holopin board](https://holopin.me/gunjan_1)](https://holopin.io/@gunjan_1)
